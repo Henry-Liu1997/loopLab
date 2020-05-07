@@ -14,7 +14,7 @@ img {
 }
 
 #home-section {
-  background-image: url("/img/home.jpg");
+  background-image: url("../img/home.jpg");
   background-size: cover;
   background-attachment: fixed;
   min-height: 700px;
